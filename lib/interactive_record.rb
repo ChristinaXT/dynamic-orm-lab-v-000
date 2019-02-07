@@ -16,4 +16,5 @@ class InteractiveRecord
     column_names=[]
     table_info.each do |column|
       column_names<<column["name"]
- 
+     
+    
